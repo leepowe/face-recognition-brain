@@ -26,7 +26,7 @@ function App() {
 export default App;
 
 //Particles code:
-// <ParticlesBg type="cobweb" bg={true} />
+// <ParticlesBg type="thick" bg={true} />
 
 //Tilt which will be in the Logo.js file
 //import Tilt from 'react-parallax-tilt';
