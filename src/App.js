@@ -1,4 +1,5 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
+import ParticlesBg from 'particles-bg';
 import './App.css';
 
 function App() {
@@ -23,3 +24,10 @@ function App() {
 }
 
 export default App;
+
+//Particles code:
+// <ParticlesBg type="cobweb" bg={true} />
+
+//Tilt which will be in the Logo.js file
+//import Tilt from 'react-parallax-tilt';
+//in the body will be the same as the old tilt code.
